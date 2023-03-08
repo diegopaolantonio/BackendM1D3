@@ -1,0 +1,29 @@
+[
+	{
+		"title": "M241",
+		"description": "PLC",
+		"price": 450,
+		"thumbnail": "https://cdn.bpsolucioneselectricas.com.ar/uploads/1591999559_UEYxMzAyMjBfNDAwMHg0MDAwLnBuZw==.jpg",
+		"code": "SchneireM241",
+		"stock": 100,
+		"id": 2
+	},
+	{
+		"title": "Zelio",
+		"description": "otra descripcion",
+		"price": 135,
+		"thumbnail": "https://download.schneider-electric.com/files?p_Doc_Ref=SR_531_CPFJR16030&p_File_Type=rendition_369_jpg&default_image=DefaultProductImage.png",
+		"code": "SchneireZelio",
+		"stock": 685,
+		"id": 3
+	},
+	{
+		"title": "M221",
+		"description": "PLC",
+		"price": 220,
+		"thumbnail": "https://download.schneider-electric.com/files?p_Doc_Ref=PF130224&p_File_Type=rendition_369_jpg&default_image=DefaultProductImage.png",
+		"code": "SchneireM221",
+		"stock": 250,
+		"id": 4
+	}
+]
